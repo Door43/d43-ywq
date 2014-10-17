@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ywq:home|Door43 (ywq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ywq|d43-ywq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ywq/archive/master.zip|d43-ywq.zip]]
+
+**Recent Changes**
+{{changes>ns = ywq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ywq|Ethnologue data]]
+
